@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}.Color-item{
+    font-weight: 700;
+   background-color: orange;
+   border-radius: 10px;
+   padding: 10px 10px;
+}
+.container{
+    display: flex;
+    margin-bottom: 150px;
+    padding-top: 50px;
+    
+}
+.font-size{
+    font-weight: 900;
+}
+.skip-color{
+    color: darksalmon;
+}
+.half-width{
+    width: 50%;
+    margin-top: 70px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.half-width img{
+   width: 50%;
+}
+.containers{
+    display: flex;
+    background-image: url(images/shapes/7.png);  
+}
+.text-item{
+    width: 50%;
+    padding-left: 30px;
+    padding-right: 100px; 
+}
+.img-width{
+    width: 30%;
+    padding-left: 250px;
+}
+.center-item{
+   text-align: center;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+.img-widths{
+  width: 90%;  
+}
+.containerss{
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 5px;
+    box-shadow: 10px 10px 60px salmon;
+    border-radius: 10px;
+}
+.containerr{
+    display: flex;
+    margin-bottom: 150px;
+    padding-left: 300px; 
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 100px;
+    box-shadow: 10px 10px 60px salmon;
+    border-radius: 10px;
+   
+}
+.Love{
+    padding-left: 25px;
+}
+.footer-item{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.714);
+}
+.foo{
+    color: salmon;
+}
